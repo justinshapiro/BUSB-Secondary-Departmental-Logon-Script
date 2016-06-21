@@ -1,0 +1,3 @@
+Created for the Business School IT Department where I work.
+
+This is a script that maps locations on the network as a network drive based on Active Directory group membership. This script is intended to be applied as part of a Group Policy Object (GPO) linked to a particular Organizational Unit (OU). The current implementation can be templatized, but its current implementation is for users of the CU Denver Business School (CN="users" CN="BUS" DC="ucdenver" DC="pvt"). Because the University of Colorado Denver's central IT office (OIT) originally provided this script as a skeleton regards to what it need to accomplish, this script has been heavily modified.
